@@ -1,6 +1,6 @@
 # Welcome to Javalent's Plugins
 
-> : Feature Requests are closed at this time so we can catch up on existing reports.
+> 🔥 Feature Requests are closed at this time so we can catch up on existing reports.
 
 ## Important Updates
 

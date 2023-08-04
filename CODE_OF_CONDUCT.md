@@ -1,49 +1,128 @@
-# Project Name - Code of Conduct
+# Contributor Covenant Code of Conduct
 
-## Introduction
+## Our Pledge
 
-We, the contributors and maintainers of this organization, are committed to fostering an open and inclusive environment for all participants. We value the involvement of individuals from different backgrounds and experiences and aim to ensure a harassment-free experience for everyone. This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, religion, or sexual identity
+and orientation.
 
-## Expected Behavior
+We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.
 
-We expect all contributors and community members to:
+## Our Standards
 
-- Be respectful and considerate towards others.
-- Exercise empathy and understanding towards differing perspectives.
-- Be open to constructive feedback and ideas.
-- Stay focused on the project's goals and refrain from engaging in personal attacks or trolling.
-- Be inclusive and welcoming to individuals regardless of their race, ethnicity, nationality, gender identity, sexual orientation, religion, age, or any other personal characteristic.
+Examples of behavior that contributes to a positive environment for our
+community include:
 
-## Unacceptable Behavior
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes,
+  and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the
+  overall community
 
-Unacceptable behavior includes, but is not limited to:
+Examples of unacceptable behavior include:
 
-- Harassment, bullying, or intimidation of any form.
-- Offensive comments or language, including the use of derogatory terms.
-- Posting or sharing inappropriate or offensive content.
-- Personal attacks or ad hominem criticism.
-- Trolling, spamming, or any other disruptive behavior.
-- Any behavior that violates applicable laws or regulations.
+* The use of sexualized language or imagery, and sexual attention or
+  advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email
+  address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
 
-## Reporting Guidelines
+## Enforcement Responsibilities
 
-If you experience or witness any behavior that you believe violates this code of conduct, please report it immediately to **@Javalent** or **@Sigrunixia** on the Obsidian Members Group Discord. All reports will be kept confidential and will be thoroughly reviewed and addressed.
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
 
-**Obsidian Members Group Discord Link**: https://discord.gg/obsidianmd
-
-## Consequences of Unacceptable Behavior
-
-We are committed to upholding this code of conduct, and any instances of unacceptable behavior may result in temporary or permanent bans from the community at the discretion of the project maintainers. 
-
-## Attribution
-
-This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
 
 ## Scope
 
-This code of conduct applies to all community interactions in the project's GitHub repository, issue trackers, Discord server, and any other communication channels related to this project.
+This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
 
-## Final Words
+## Enforcement
 
-Creating a positive and inclusive community is a collective effort, and we appreciate your cooperation in abiding by this code of conduct. Let's work together to make this project a welcoming space for everyone.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+@Javalent or @Sigrunixia at the Obsidian Members Group discord.
+All complaints will be reviewed and investigated promptly and fairly.
 
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
+
+## Enforcement Guidelines
+
+Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:
+
+### 1. Correction
+
+**Community Impact**: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.
+
+**Consequence**: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.
+
+### 2. Warning
+
+**Community Impact**: A violation through a single incident or series
+of actions.
+
+**Consequence**: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or
+permanent ban.
+
+### 3. Temporary Ban
+
+**Community Impact**: A serious violation of community standards, including
+sustained inappropriate behavior.
+
+**Consequence**: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.
+
+### 4. Permanent Ban
+
+**Community Impact**: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior,  harassment of an
+individual, or aggression toward or disparagement of classes of individuals.
+
+**Consequence**: A permanent ban from any sort of public interaction within
+the community.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 2.0, available at
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+
+Community Impact Guidelines were inspired by [Mozilla's code of conduct
+enforcement ladder](https://github.com/mozilla/diversity).
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see the FAQ at
+https://www.contributor-covenant.org/faq. Translations are available at
+https://www.contributor-covenant.org/translations.

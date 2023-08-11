@@ -1,5 +1,5 @@
-name: 🧩 Code Report
-description: Report an Update to Code
+name: 🧩 Refactor
+description: Something that needs improving while not changing functionality
 labels: "Type: Refactor"
 title: "🧩 Your Title Here"
 body:

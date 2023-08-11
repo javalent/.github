@@ -1,1 +1,9 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Documentation Website
+    url: https://plugins.javalent.com/home
+    about: The place for the most up-to-date documentation for anything Javalent.
+  - name: Discord Support
+    url: https://discord.gg/obsidianmd
+    about: Visit #Javalent-Support-Thread to talk to a human and get some help.
+ 

@@ -1,6 +1,6 @@
 name: 🧩 Code Report
 description: Report an Update to Code
-labels: code
+labels: "Type: Refactor"
 title: "🧩 Your Title Here"
 body:
   - type: markdown

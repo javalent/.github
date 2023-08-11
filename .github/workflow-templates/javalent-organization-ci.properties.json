@@ -1,0 +1,13 @@
+{
+    "name": "Javalent Organization Workflow",
+    "description": "Javalent Organization CI starter workflow.",
+    "iconName": "octicon hubot",
+    "categories": [
+        "Automation"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Javalent Organization Stale",
+    "description": "Javalent Organization Stalebot",
+    "iconName": "octicon hubot",
+    "categories": [
+        "Automation"
+    ],
+}

@@ -5,5 +5,8 @@ contact_links:
     about: The place for the most up-to-date documentation for anything Javalent.
   - name: Discord Support
     url: https://discord.gg/obsidianmd
-    about: Visit #Javalent-Support-Thread to talk to a human and get some help.
+    about: "Visit \#Javalent-Support-Thread to talk to a human and get some help."
+  - name: Feature Requests
+    url: https://discord.gg/obsidianmd
+    about: "Visit \#Javalent-Support-Thread to pose your idea. If its accepted, it will be made into an issue."
  
